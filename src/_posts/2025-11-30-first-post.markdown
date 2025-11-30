@@ -19,7 +19,7 @@ I had reserved the extended weekend to migrate my old and rusty [Manjaro](https:
 
 Excluding some minor issues[^lol], that went about pretty fast.
 
-But because I had already set aside the next two weeks for this monstrous task...
+But because I had already set aside time for this monstrous task...
 And because at least one person (not counting my wife) has told me that I'm bearable enough when speaking about certain topics of my peculiar interest, I decided to start writing.
 
 ## Chronogram
