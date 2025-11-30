@@ -2,17 +2,21 @@
 layout: page
 title: About
 permalink: /about/
+excerpt: "Howdy! My name is João Sá. I'll be writing on front-end engineering, tooling, and product thinking topics."
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Howdy!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is João Sá.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<img alt="João Sá profile photo" src="/images/joaosa.png" width="200">
 
+That's me!
 
-[jekyll-organization]: https://github.com/jekyll
+I'm a Full-stack / Product Engineer (Mobile / Web) with a front-end lean based in Porto, Portugal.
+
+I'll be writing on front-end engineering, tooling, and product thinking topics.
+
+Hopefully we can learn some things together!
+
+Cheers!
