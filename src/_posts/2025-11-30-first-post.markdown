@@ -4,7 +4,7 @@ title: "Befitting title of first blog post!"
 tags: personal omarchy
 date: 2025-11-30
 author: João Sá
-published: false
+published: true
 ---
 
 Yes, it's true. After many moons, months and years I have _officially_ decided to start curating a blog of mine.
