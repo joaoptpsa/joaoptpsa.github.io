@@ -9,7 +9,7 @@ Howdy!
 
 My name is João Sá.
 
-<img alt="João Sá profile photo" src="/images/joaosa.png" width="200">
+<img alt="João Sá profile photo" src="/assets/images/joaosa.png" width="200">
 
 That's me!
 

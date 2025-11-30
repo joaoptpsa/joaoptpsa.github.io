@@ -21,7 +21,7 @@
 title: João Sá
 email: joao.sa@familiasa.pt
 description: >- # this means to ignore newlines until "baseurl:"
-  Arch user btw. NeoVim user btw. Judo black belt btw. Married btw.
+  Arch user btw. NeoVim user btw. Married btw. Judo black belt btw.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joaoptpsa
